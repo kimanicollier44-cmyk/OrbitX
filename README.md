@@ -1,4 +1,4 @@
-![OrbitX cover](assets/cover.png)
+![OrbitX cover](OrbitX%20cover.png)
 
 # 🛰️ OrbitX — Orbital Transport Autopilot Lab
 
